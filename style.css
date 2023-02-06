@@ -1,0 +1,10 @@
+body{
+    background-color: lime;
+}
+h1{
+    color: blue;
+    background-color: darkolivegreen;
+}
+#show_sketch{
+    float: left;
+}
